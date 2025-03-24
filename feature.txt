@@ -1,1 +1,1 @@
-Add Feature B, C
+Add Feature A, B, C
